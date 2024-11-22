@@ -1,6 +1,7 @@
 body{
     backgroud-color: black;
     color: rgb(255 255 255);
+    font-family: "anton", sans-serif;
 
 
 heder{
@@ -10,7 +11,9 @@ heder{
 
 .chamada{
     background-color: rgb(22 22 22)
-    display: flex; /*torna a seção flexivel deixando um do lado do outro*/
+    padding-top: 70px;
+    padding-bottom: 70px:
+    display: flex;/*torna a seção flexivel deixando um do lodo do outro*/justify-content:center;}
     justify-content: center; 
 
 
